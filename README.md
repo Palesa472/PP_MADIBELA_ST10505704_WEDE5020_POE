@@ -6,9 +6,11 @@ Student number: ST10505704
 Student FullName: Palesa Perseverance Madibela
 Group: Year 1 Group 4
 Module: Web Development (Introduction)
-Module Code: WEDE5020 ## PROJECT OVERVIEW
+Module Code: WEDE5020 
 
-Founded to address the access gap to community-based care, initially existing as a small community volunteer group, which then grew into a formalized non-profit organization.
+## PROJECT OVERVIEW
+
+
 
 # WEBSITE GOALS AND OBJECTIVES
 To offer the necessary information about available care services that is easily accessible and attract more volunteers and financial sponsors through the collection of leads.
@@ -17,48 +19,46 @@ To offer the necessary information about available care services that is easily 
 The main KPIs will be the number of monthly volunteer/sponsor enquiry form submissions and the average time spent by users reading the services page.
 
 ## WEBSITE ANALYSIS
-# Strengths & Weakness
 
 # SPECIFIC GOALS
+
 # WEBSITE GOALS AND OBJECTIVES
 
 
-## WEBSITE ANALYSIS
 # Strengths & Weaknesses
+All three branches and the contacts number are listed which makes it easier for the target market to locate our business. Our customer's are able to navigate through our price ranges.
 
 
 
 # Improvement Areas
-
-.
+•	Connect the enquiry form to a working backend or third-party form handle
+Introduce responsive styling so the site displays correctly on mobile devices
 
 # Proposed Features and Functionality
-
-The website will be designed using five pages, including the Homepage, About Us, Services, Enquiry, and Contact page. The Homepage will contain general information about the organization, while the About Us page will focus on the organization's mission. The Services page will provide the list of services to be offered by the organization. The Enquiry page will contain a form for volunteers and sponsors to use when contacting the organization. The Contact page will have the location map of the organization's offices or clinics.
+The website will be designed using five pages, including the Homepage, About Us, Services, Enquiry, and Contact page. The Homepage will contain general information about the business, while the About Us page will focus on the business's mission. The Services page will provide the list of services to be offered by the business. The Enquiry page will contain a form for customers to use when contacting the business . The Contact page will have the location map of the business's offices.
 
 ## Design and User Experience
-
-
-
 # Layout
+A single-column, image-led layout with a consistent header (logo, tagline, navigation) and footer (copyright, email, project name) across every page, so visitors always know which site they are on and how to get back to the homepage.
 
 
 ## Technical Requirements
-
-
-
 # Hosting
+a South African shared hosting provider offering local data hosting for faster load times to the target audience
 
 
 # Timeline and Milestones
+Week 1: Project initiation that allows me to choose organisation, define goals and target audience	Approved project proposal
 
-Week 1: Finalize the set of wireframes for the five pages, find appropriate images, and upload the project to the GitHub repository.
+Week 2: Content and asset gathering such as source images, write copy, confirm pricing	Content and image library
 
-Week 2: Develop the HTML code for all the pages of the website.
+Week 3: Wireframing and design that include colour scheme, typography, layout	Low-fidelity wireframes
 
-Week 3: Add content to the pages, apply HTML tags, and configure the navigation system.
+Week 4: Building HTML structure and link Home, Services, About Us, Contact, Enquiry pages	Linked HTML pages
+na
+Week 5: Testing if the website is responsive, form validation, debug if necessary
 
-Week 4: Test the website in different browsers, debug the code, add comments to it, and upload the final version to the LMS.
 
 ## Budget
  # Domain Registration
+ Domain name: furnishedbypersi.co.za (a South African .co.za domain, matching the business email address)
