@@ -9,26 +9,22 @@ Module: Web Development (Introduction)
 Module Code: WEDE5020 
 
 ## PROJECT OVERVIEW
-
-
-
 # WEBSITE GOALS AND OBJECTIVES
 To offer the necessary information about available care services that is easily accessible and attract more volunteers and financial sponsors through the collection of leads.
 
 # KPI
-The main KPIs will be the number of monthly volunteer/sponsor enquiry form submissions and the average time spent by users reading the services page.
+Reduction in phone enquiries for basic information already available on the site (pricing, hours, location)
 
 ## WEBSITE ANALYSIS
-
 # SPECIFIC GOALS
-
-# WEBSITE GOALS AND OBJECTIVES
-
+•	Showcase the full Furnished By Persi product range (lounge suites, dining sets, bedroom furniture, coffee tables, and custom furniture) with clear pricing
+•	Generate qualified leads through an online furniture enquiry form
+•	Provide branch location, contact, and business hours information for all three branches
+•	Build brand credibility and communicate the company's luxury positioning to a South African audience
+•	Give visitors enough information to make a purchase decision or enquiry without needing to call first
 
 # Strengths & Weaknesses
 All three branches and the contacts number are listed which makes it easier for the target market to locate our business. Our customer's are able to navigate through our price ranges.
-
-
 
 # Improvement Areas
 •	Connect the enquiry form to a working backend or third-party form handle
@@ -48,17 +44,23 @@ a South African shared hosting provider offering local data hosting for faster l
 
 
 # Timeline and Milestones
-Week 1: Project initiation that allows me to choose organisation, define goals and target audience	Approved project proposal
+Week 1: Project initiation that allows me to choose organisation, define goals and target audience	approved project proposal
 
-Week 2: Content and asset gathering such as source images, write copy, confirm pricing	Content and image library
+Week 2: Content and asset gathering such as source images, write copy, confirm pricing	content and image library
 
-Week 3: Wireframing and design that include colour scheme, typography, layout	Low-fidelity wireframes
+Week 3: Wireframing and design that include colour scheme, typography, layout	low-fidelity wireframes
 
 Week 4: Building HTML structure and link Home, Services, About Us, Contact, Enquiry pages	Linked HTML pages
-na
+
 Week 5: Testing if the website is responsive, form validation, debug if necessary
 
 
 ## Budget
  # Domain Registration
  Domain name: furnishedbypersi.co.za (a South African .co.za domain, matching the business email address)
+
+ # Wireframes
+Low-fidelity wireframes were developed to plan the layout and information hierarchy of each page before development: a header with logo and navigation, a hero section, a content section with body text and imagery, and a consistent footer, repeated across the Home, Services, About Us, Contact Us, and Enquiry pages. 
+ 
+ # Language
+ HTML5 for page structure and content.CSS3 for styling, layout, and responsive design (external stylesheet: css/style.css).JavaScript for form validation and interactive elements
