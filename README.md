@@ -60,7 +60,11 @@ Week 5: Testing if the website is responsive, form validation, debug if necessar
  Domain name: furnishedbypersi.co.za (a South African .co.za domain, matching the business email address)
 
  # Wireframes
-Low-fidelity wireframes were developed to plan the layout and information hierarchy of each page before development: a header with logo and navigation, a hero section, a content section with body text and imagery, and a consistent footer, repeated across the Home, Services, About Us, Contact Us, and Enquiry pages. 
+ [Furnished_By_Persi_Website_Proposal.docx](https://github.com/user-attachments/files/32392254/Furnished_By_Persi_Website_Proposal.docx)
+ [wireeframes (1).zip](https://github.com/user-attachments/files/32393020/wireeframes.1.zip)
+
+
+
  
  # Language
  HTML5 for page structure and content.CSS3 for styling, layout, and responsive design (external stylesheet: css/style.css).JavaScript for form validation and interactive elements
