@@ -24,7 +24,14 @@ Reduction in phone enquiries for basic information already available on the site
 •	Give visitors enough information to make a purchase decision or enquiry without needing to call first
 
 # Strengths & Weaknesses
-All three branches and the contacts number are listed which makes it easier for the target market to locate our business. Our customer's are able to navigate through our price ranges.
+STRENGTH's:
+All three branches and the contacts number are listed which makes it easier for the target market to locate our business. 
+Our customer's are able to navigate through our price ranges. 
+Our broad product range, that include lounge suites, bedroom furniture, coffee tables, including custom and delivery services covers most of a customer's home in one place.
+
+WEAKNESSES:
+A visitor can't get to my lead-generation form without knowning the exact URL, which is a direct hit to conversions.
+There is no other visible social proof such as reviews, that luxury furniture shoppers often look for before buying.
 
 # Improvement Areas
 •	Connect the enquiry form to a working backend or third-party form handle
@@ -60,11 +67,13 @@ Week 5: Testing if the website is responsive, form validation, debug if necessar
  Domain name: furnishedbypersi.co.za (a South African .co.za domain, matching the business email address)
 
  # Wireframes
- [Furnished_By_Persi_Website_Proposal.docx](https://github.com/user-attachments/files/32392254/Furnished_By_Persi_Website_Proposal.docx)
  [wireeframes (1).zip](https://github.com/user-attachments/files/32393020/wireeframes.1.zip)
 
+ # Language
+ HTML5 for page structure and content.CSS3 for styling, layout, and responsive design (external stylesheet: css/style.css).JavaScript for form validation and interactive elements
+
+ # Sitemap
+ [Furnished_By_Persi_Sitemap.zip](https://github.com/user-attachments/files/32393133/Furnished_By_Persi_Sitemap.zip)
 
 
  
- # Language
- HTML5 for page structure and content.CSS3 for styling, layout, and responsive design (external stylesheet: css/style.css).JavaScript for form validation and interactive elements
