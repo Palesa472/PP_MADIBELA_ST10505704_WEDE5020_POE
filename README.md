@@ -75,5 +75,16 @@ Week 5: Testing if the website is responsive, form validation, debug if necessar
  # Sitemap
  [Furnished_By_Persi_Sitemap.zip](https://github.com/user-attachments/files/32393133/Furnished_By_Persi_Sitemap.zip)
 
+## References
+- Agafonkin, V. (2023) *leaflet: an open-source JavaScript library for mobile-friendly interactive maps*. Available at: https://leafletjs.com (Accessed: ...).
+- OpenStreetMap contributors (n.d.) *OpenStreetMap*. Available at: https://www.openstreetmap.org (Accessed: ...).
+- Mozilla (n.d.) *MDN Web Docs: IntersectionObserver, Fetch API, Constraint validation*. Available at: https://developer.mozilla.org (Accessed: ...).
+- W3C (n.d.) *WAI-ARIA Authoring Practices Guide: Accordion, Tabs and Dialog patterns*. Available at: https://www.w3.org/WAI/ARIA/apg/ (Accessed: ...).
+- Google (n.d.) *Search Central: SEO Starter Guide*. Available at: https://developers.google.com/search/docs.
+- Schema.org (n.d.) *FurnitureStore*. Available at: https://schema.org/FurnitureStore.
+- Netlify (n.d.) *Netlify Docs: Headers and deploys*. Available at: https://docs.netlify.com.
+- GitHub (n.d.) *GitHub Pages documentation*. Available at: https://docs.github.com/pages.
+- Formspree (n.d.) *Formspree documentation*. Available at: https://help.formspree..
+- Image sources: add the original sources/credits for every photo used.
 
  
