@@ -82,6 +82,9 @@ Week 5: Testing if the website is responsive, form validation, debug if necessar
 - W3C (n.d.) *WAI-ARIA Authoring Practices Guide: Accordion, Tabs and Dialog patterns*. Available at: https://www.w3.org/WAI/ARIA/apg/ (Accessed: ...).
 - Google (n.d.) *Search Central: SEO Starter Guide*. Available at: https://developers.google.com/search/docs.
 - Schema.org (n.d.) *FurnitureStore*. Available at: https://schema.org/FurnitureStore.
+
+# Deployment Link
+https://wede5020projst10505704.netlify.app/
 - Netlify (n.d.) *Netlify Docs: Headers and deploys*. Available at: https://docs.netlify.com.
 - GitHub (n.d.) *GitHub Pages documentation*. Available at: https://docs.github.com/pages.
 - Formspree (n.d.) *Formspree documentation*. Available at: https://help.formspree..
