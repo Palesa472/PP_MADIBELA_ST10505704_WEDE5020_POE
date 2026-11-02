@@ -1,104 +1,89 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-ZA">
 <head>
-    <title>Enquiry - Furnished By Persi</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Furniture Enquiry | Get a Price & Availability | Furnished By Persi</title>
+    <meta name="description" content="Enquire about luxury lounge suites, dining sets, bedroom furniture, coffee tables or custom furniture and get an estimated price and availability from your nearest branch.">
+    <meta name="keywords" content="furniture enquiry, furniture quote South Africa, luxury furniture price, custom furniture quote">
+    <meta name="author" content="Furnished By Persi">
+    <meta name="robots" content="index, follow">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta name="theme-color" content="#1c1a17">
+    <link rel="canonical" href="https://furnishedbypersi.netlify.app/enquiry.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Furnished By Persi">
+    <meta property="og:title" content="Furniture Enquiry | Get a Price & Availability | Furnished By Persi">
+    <meta property="og:description" content="Enquire about luxury lounge suites, dining sets, bedroom furniture, coffee tables or custom furniture and get an estimated price and availability from your nearest branch.">
+    <meta property="og:url" content="https://furnishedbypersi.netlify.app/enquiry.html">
+    <meta property="og:image" content="https://furnishedbypersi.netlify.app/images/home-green-velvet-sofa.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@400;600&display=swap">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="image/ubuntu.jpg">
 </head>
 <body>
-    
+    <a class="skip-link" href="#main">Skip to main content</a>
     <header>
-        <a href="index.html"><img src="images/WhatsApp Image 2026-08-14 at 12.34.07 PM.jpeg" alt="Company Logo" class="logo"></a>
-        <h1>Furnished By Persi</h1>
-        <p class="tagline">Luxury Living, Beautifully Crafted</p><hr>
-
-       
-        <hr><br><br>
+        <a href="index.html" aria-label="Furnished By Persi home"><img src="images/logo.jpg" width="110" height="110" alt="Furnished By Persi luxury furniture logo" class="logo"></a>
+        <p class="site-name">Furnished By Persi</p>
+        <p class="tagline">Luxury Living, Beautifully Crafted</p>
     </header>
 
-     <nav class="navbar">
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="about_us.html">About us</a></li>
-                <li><a href="contact.html">Contact us</a></li>
-        </ul>
-        </nav>
+    <nav class="navbar" aria-label="Main navigation">
+        <ul><li><a href="index.html">Home</a></li><li><a href="services.html">Services</a></li><li><a href="about_us.html">About us</a></li><li><a href="enquiry.html" aria-current="page">Enquiry</a></li><li><a href="contact.html">Contact us</a></li></ul>
+    </nav>
 
-    <main>
-
-
+    <main id="main">
         <section>
-
-        <img src="image/furniture.png" alt="Furnished By Persi" class="hero-image">
-
-        <h2>Furniture Enquiry</h2>
-        <br><br>
+            <img src="images/home-hosting-dining-table.jpg" alt="Elegant dining table set for hosting by Furnished By Persi" width="736" height="807" class="hero-image">
+            <h1>Furniture Enquiry</h1>
         </section>
 
-
-
-        <section>
-
-        <p id="p1">Interested in purchasing furniture from Furnished By Persi? Please complete the enquiry form below and our team will contact you with more information about your selected furniture.</p>
-
-        <br>
-
-        <form action="#" method="post">
-
-            <label for="name">Full Name:</label><br>
-            <input type="text" id="name" name="name" required><br><br>
-
-            <label for="email">Email Address:</label><br>
-            <input type="email" id="email" name="email" required><br><br>
-
-            <label for="phone">Phone Number:</label><br>
-            <input type="tel" id="phone" name="phone" required><br><br>
-
-            <label for="branch">Preferred Branch:</label><br>
-            <select id="branch" name="branch">
-                <option value="johannesburg">Johannesburg</option>
-                <option value="capetown">Cape Town</option>
-                <option value="kzn">KwaZulu-Natal</option>
-            </select><br><br>
-
-            <label for="furniture">Furniture Interested In:</label><br>
-            <select id="furniture" name="furniture">
-                <option value="lounge">Luxury Lounge Suite - From R18,999</option>
-                <option value="dining">Dining Room Set - From R22,999</option>
-                <option value="bedroom">Bedroom Furniture - From R12,999</option>
-                <option value="coffee">Coffee Table - From R12,499</option>
-                <option value="custom">Custom Furniture - From R22,500</option>
-            </select><br><br>
-
-            <label for="message">Enquiry:</label><br>
-            <textarea id="message" name="message" rows="6" cols="40" placeholder="Please provide details about the furniture you are interested in."></textarea><br><br>
-
-            <input type="submit" value="Submit Enquiry">
-
-        </form>
-
-        <br><br>
-
-        <p id="p2">Our team will review your enquiry and contact you regarding availability, pricing, delivery, and customisation options.</p>
-
+        <section class="form-card reveal" aria-labelledby="enq-title">
+            <h2 id="enq-title">Request Pricing &amp; Availability</h2>
+            <p>Interested in purchasing furniture from Furnished By Persi? Please complete the enquiry form below and you will see an estimated starting price straight away. Our team will then contact you about availability, delivery and customisation.</p>
+            <form id="enquiry-form" action="#" method="post" novalidate>
+                <label for="name">Full Name</label>
+                <input type="text" id="name" name="name" required autocomplete="name" aria-describedby="name-error"><span class="error" id="name-error" role="alert"></span>
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email" required autocomplete="email" aria-describedby="email-error"><span class="error" id="email-error" role="alert"></span>
+                <label for="phone">Phone Number</label>
+                <input type="tel" id="phone" name="phone" required autocomplete="tel" placeholder="082 123 4567" aria-describedby="phone-error"><span class="error" id="phone-error" role="alert"></span>
+                <label for="branch">Preferred Branch</label>
+                <select id="branch" name="branch" required aria-describedby="branch-error"><option value="johannesburg">Johannesburg</option><option value="capetown">Cape Town</option><option value="kzn">KwaZulu-Natal</option></select><span class="error" id="branch-error" role="alert"></span>
+                <label for="furniture">Furniture Interested In</label>
+                <select id="furniture" name="furniture" required aria-describedby="furniture-error"><option value="lounge">Luxury Lounge Suite - From R18,999</option><option value="dining">Dining Room Set - From R22,999</option><option value="bedroom">Bedroom Furniture - From R12,999</option><option value="coffee">Coffee Tables - From R12,499</option><option value="custom">Custom Furniture - From R20,500</option></select><span class="error" id="furniture-error" role="alert"></span>
+                <label for="quantity">Quantity (1-10)</label>
+                <input type="number" id="quantity" name="quantity" value="1" min="1" max="10" required aria-describedby="quantity-error"><span class="error" id="quantity-error" role="alert"></span>
+                <label for="date">Preferred Viewing Date (optional)</label>
+                <input type="date" id="date" name="date" aria-describedby="date-error"><span class="error" id="date-error" role="alert"></span>
+                <div class="check"><input type="checkbox" id="delivery" name="delivery" value="yes"><label for="delivery">I would like delivery</label></div>
+                <label for="message">Enquiry</label>
+                <textarea id="message" name="message" rows="6" required minlength="10" maxlength="500" data-counter="message-count" placeholder="Please provide details about the furniture you are interested in." aria-describedby="message-error message-count"></textarea>
+                <span class="counter" id="message-count" aria-hidden="true"></span><span class="error" id="message-error" role="alert"></span>
+                <input type="submit" value="Submit Enquiry">
+                <p id="form-status" role="alert"></p>
+            </form>
+            <p>Our team will review your enquiry and contact you regarding availability, pricing, delivery, and customisation options. <a href="services.html">Browse the collection</a> or <a href="contact.html">contact a branch</a>.</p>
         </section>
-
-    </main><hr>
-
-
+    </main>
 
     <footer class="footer">
-    <p id="p5">&copy; 2026 Furnished By Persi | All rights reserved</p>
-
-    <p id="p6">
-        Email:
-        <a href="mailto:info@furnishedbypersi.co.za">info@furnishedbypersi.co.za</a>
-    </p>
-
-    <p id="p4">Website Project: Furnished By Persi</p>
-</footer>
-
-
+        <p>&copy; 2026 Furnished By Persi | All rights reserved</p>
+        <p>Email: <a href="mailto:info@furnishedbypersi.co.za">info@furnishedbypersi.co.za</a></p>
+        <p class="social">
+            <!-- Replace these with the business's real social media pages -->
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Instagram</a>
+            <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">Facebook</a>
+            <a href="https://wa.me/27114567890" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+        </p>
+        <p class="footer-nav"><a href="services.html">Furniture</a> <a href="enquiry.html">Enquire</a> <a href="contact.html">Find a branch</a></p>
+        <p>Website Project: Furnished By Persi</p>
+    </footer>
+    <script src="js/products.js" defer></script>
+    <script src="js/main.js" defer></script>
 </body>
 </html>
